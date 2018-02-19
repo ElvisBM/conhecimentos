@@ -7,5 +7,5 @@
 * NodeJs
 * Jenkins
 * Integração Continua
-* CentOS / VPS
+* CentOS / VPS / Perfect Server CentOS
 * NGINX
