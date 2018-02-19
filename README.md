@@ -6,3 +6,5 @@
 * ReactJS
 * NodeJs
 * Jenkins
+* Integração Continua
+* CentOS / VPS
