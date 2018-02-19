@@ -8,3 +8,4 @@
 * Jenkins
 * Integração Continua
 * CentOS / VPS
+* NGINX
