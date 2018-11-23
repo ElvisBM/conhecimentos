@@ -37,10 +37,10 @@ Minha base de conhecimento. :+1: :punch: :metal:
 * [DevSecIo - Framework, Ferramenta](https://dev-sec.io/)
 
 ## GitHub
-* [Editor de Texto Formato](https://help.github.com/articles/basic-writing-and-formatting-syntax/) :white_check_mark:
+* [Editor Syntax](https://help.github.com/articles/basic-writing-and-formatting-syntax/) :white_check_mark:
 
 ## Ferramentas
-* [DontPad - Editor de texto Online] - (http://dontpad.com/elvisbmartins)
+* [DontPad - Editor de texto Online](http://dontpad.com/elvisbmartins)
 
 ## Links
 * [Free For DeV - Links com diversos conteudos para estudos ](https://github.com/ripienaar/free-for-dev/blob/master/README.md)
