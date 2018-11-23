@@ -1,5 +1,5 @@
-# Artigos, Cursos, Links, Ferramentas, Informações
-Minha base de conhecimento.
+# Artigos, Cursos, Links, Ferramentas, Informações 
+Minha base de conhecimento. :+1: :punch: :metal:
 
 ## Estudos
 * CSS Grids/ Novidades
@@ -37,7 +37,7 @@ Minha base de conhecimento.
 * [DevSecIo - Framework, Ferramenta](https://dev-sec.io/)
 
 ## GitHub
-* [Editor de Texto Formato](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
+* [Editor de Texto Formato](https://help.github.com/articles/basic-writing-and-formatting-syntax/) :white_check_mark:
 
 ## Ferramentas
 * [DontPad - Editor de texto Online] - (http://dontpad.com/elvisbmartins)
