@@ -46,7 +46,7 @@ Minha base de conhecimento. :+1: :punch: :metal:
 * [Free For DeV - Links com diversos conteudos para estudos ](https://github.com/ripienaar/free-for-dev/blob/master/README.md)
 
 ## Informações e Referências
-* [Safari Content Guide - Desenvolvimento PWA/APP IOS] (https://developer.apple.com/library/archive/documentation/AppleApplications/Reference/SafariWebContent/ConfiguringWebApplications/ConfiguringWebApplications.html)
+* [Safari Content Guide - Desenvolvimento PWA/APP IOS](https://developer.apple.com/library/archive/documentation/AppleApplications/Reference/SafariWebContent/ConfiguringWebApplications/ConfiguringWebApplications.html)
 
 
 
